@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Leonardo Messias
 
 - 🔭 Atualmente sou estagiário do ECG/TCERJ
-- 🌱 Estou estudando Java e Angular
+- 🌱 Estou estudando Java 
 - 💬 Contate-me no e-mail: leonardo.messias@hotmail.com
 
 <div align="center">
