@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Leonardo Messias
 
-- 🔭 Atualmente sou estagiário do ECG/TCERJ
+- 🔭 Atualmente sou Starter no Group GFT
 - 🌱 Estou estudando Java 
 - 💬 Contate-me no e-mail: leonardo.messias@hotmail.com
 
