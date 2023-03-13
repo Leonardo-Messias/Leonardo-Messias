@@ -39,6 +39,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Leonardo-Messias/Leonardo-Messias/blob/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/Leonardo-Messias/Leonardo-Messias/blob/output/github-contribution-grid-snake.svg)
 
 ###
