@@ -36,9 +36,15 @@
 </div>
 
 ###
-
+<div aling="center">
 <br clear="both">
 
 ![snake gif](https://github.com/Leonardo-Messias/Leonardo-Messias/blob/output/github-contribution-grid-snake.svg)
+</div>
 
+  <div align="center">
+  <img src="https://profile-counter.glitch.me/Leonardo-Messias/count.svg?"  />
+</div>
+
+###
 ###
